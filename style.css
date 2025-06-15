@@ -47,4 +47,9 @@ body{
 
 .nav-link{
     color: black;
+    transition: 550ms;
+}
+
+.nav-link:hover{
+    color: #ff4c68;
 }
