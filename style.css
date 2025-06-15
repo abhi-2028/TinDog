@@ -53,3 +53,17 @@ body{
 .nav-link:hover{
     color: #ff4c68;
 }
+
+.footer-logo{
+  display: flex;
+  justify-content: center;
+  height: 5rem;
+  background-color: white;
+  width: fit-content;
+  margin-left: 42.3%;
+  border-radius: 10px;
+}
+
+.footer-text{
+  color: white;
+}
