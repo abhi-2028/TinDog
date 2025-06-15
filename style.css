@@ -35,3 +35,8 @@ body{
 .hero-section{
   height: 40rem;
 }
+
+.profile-img{
+    height: 6rem;
+    border-radius: 50%;
+}
